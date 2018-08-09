@@ -1,0 +1,1 @@
+- [ ] Handle huge directory with mess files
